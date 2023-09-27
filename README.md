@@ -1,0 +1,1 @@
+# project_wayayo_inventory
